@@ -88,9 +88,10 @@ This module emphasizes **data analysis using SQL**, extracting meaningful insigh
 **Kokkilagadda Sasi**  
 📍 KITS, Guntur  
  📧 *(22jr1a12a7@gmail.com)* 
-🔗 *()*
+🔗 *(https://github.com/22jr1a12a7-design/Projects/tree/main)*
 
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+
 
